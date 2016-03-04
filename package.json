@@ -1,0 +1,20 @@
+{
+  "name": "kontrakt",
+  "version": "1.0.0",
+  "description": "A functional contract library for Javascript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lauripiispanen/kontrakt.git"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test",
+    "watch": "./node_modules/mocha/bin/mocha -w test/*.js"
+  },
+  "author": "Lauri Piispanen",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
