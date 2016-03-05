@@ -14,7 +14,7 @@
   "author": "Lauri Piispanen",
   "license": "ISC",
   "devDependencies": {
-    "expect.js": "^0.3.1",
-    "mocha": "^2.4.5"
+    "expect.js": "~0.3.1",
+    "mocha": "~2.4.5"
   }
 }
