@@ -3,7 +3,9 @@ kontrakt
 
 A functional contract library for Javascript.
 
-Even though examples on this page will use ES6 features for brevity, this library
+[![Build Status](https://travis-ci.org/lauripiispanen/kontrakt.svg?branch=master)](https://travis-ci.org/lauripiispanen/kontrakt)
+
+*note:* Even though examples on this page will use ES6 features for brevity, this library
 does not require it and is backwards compatible with earlier versions.
 
 **Installation**
